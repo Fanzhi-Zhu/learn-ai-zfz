@@ -96,7 +96,7 @@ def live():
 
 “在，它今天在晒太阳，我发照片给你看。”
 
-![橘猫配图](images/cat.jpg)
+![橘猫配图](images/cat.png)
 
 “真好。”
 
